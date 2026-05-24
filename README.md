@@ -79,6 +79,7 @@ All analyses and plots are designed to **avoid null / empty / UNKNOWN labels**:
 - Numeric charts use safe numeric casting and drop non-numeric / null values.
 
 ---
+<img width="1024" height="1536" alt="ChatGPT Image May 17, 2026, 11_16_41 PM" src="https://github.com/user-attachments/assets/89cfc88b-0cf0-47e8-9dd6-ca2c2bdf2046" />
 
 ## Visualizations
 All plots are saved as **JPG only** to `etl_output/plots/jpg/`.
